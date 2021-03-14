@@ -1,1 +1,1 @@
-# zzZNotes
+# Study notes for zzZ.
